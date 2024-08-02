@@ -26,21 +26,18 @@
             <p>Your partner in success.</p>
         </div>
     </section>
-
     <section id="about">
         <div class="container">
             <h2>About Us</h2>
             <p>Marzan Company is a leading firm in providing top-notch services to our clients. We specialize in various domains and aim to deliver the best results for our customers.</p>
         </div>
     </section>
-
     <section id="services">
         <div class="container">
             <h2>Our Services</h2>
             <p>We offer a wide range of services including consulting, project management, and business development. Our team of experts is dedicated to providing solutions tailored to your needs.</p>
         </div>
     </section>
-
     <section id="contact">
         <div class="container">
             <h2>Contact Us</h2>
