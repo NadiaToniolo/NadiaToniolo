@@ -20,7 +20,6 @@
             </nav>
         </div>
     </header>
-
     <section id="home">
         <div class="container">
             <h2>Welcome to Marzan Company</h2>
